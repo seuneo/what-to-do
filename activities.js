@@ -1,4 +1,6 @@
-export const activities = [
+
+
+const activities = [
 
     "Drink water",
     "Journaling",
@@ -83,4 +85,6 @@ export const activities = [
     "Make quiz questionnaire websites for frens",
     "Play Stardew valley again"
 
-]
+];
+
+export default activities;
